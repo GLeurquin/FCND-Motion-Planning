@@ -3,6 +3,8 @@
 
 ---
 
+# Installation Requirements
+* I'm [Rtree](https://pypi.org/project/Rtree/) for collision detection with polygons, so this package must be installed for this project to work, in addition to networkx, matplotlib, numpy
 
 # Required Steps for a Passing Submission:
 1. Load the 2.5D map in the colliders.csv file describing the environment.

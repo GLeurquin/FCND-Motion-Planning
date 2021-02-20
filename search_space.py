@@ -1,9 +1,7 @@
 from rtree import index
 import time
-from sklearn.neighbors import KDTree
 import numpy.linalg as LA
 import numpy as np
-import matplotlib.pyplot as plt
 
 from queue import PriorityQueue
 from bresenham import bresenham
